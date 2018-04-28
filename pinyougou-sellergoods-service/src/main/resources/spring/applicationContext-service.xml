@@ -12,5 +12,6 @@
 
     <!--发布服务:注解的方式 扫描对应的包 @service 即可发布服务-->
     <dubbo:annotation package="com.pinyougou.sellergoods.service"></dubbo:annotation>
+
 </beans>
 
